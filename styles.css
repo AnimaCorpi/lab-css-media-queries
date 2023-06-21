@@ -181,12 +181,12 @@ footer a:hover {
   }
   main {
     grid-template-columns: repeat(1, 1fr);
-    gap: 0
+    gap: 0;
   }
   footer {
     padding: 25px;
     text-align: center;
-    border-bottom: none
+    border-bottom: none;
   }
   footer ul {
     list-style: none;
